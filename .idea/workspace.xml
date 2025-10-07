@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="14bfa540-c635-45a5-bfb4-fe21908740a0" name="Changes" comment="updating game data">
+    <list default="true" id="14bfa540-c635-45a5-bfb4-fe21908740a0" name="Changes" comment="updated the main file">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
@@ -116,7 +116,15 @@
       <option name="project" value="LOCAL" />
       <updated>1759870312944</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="updated the main file">
+      <option name="closed" value="true" />
+      <created>1759870896452</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1759870896452</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -134,6 +142,7 @@
     <MESSAGE value="Creating file" />
     <MESSAGE value="updating art file" />
     <MESSAGE value="updating game data" />
-    <option name="LAST_COMMIT_MESSAGE" value="updating game data" />
+    <MESSAGE value="updated the main file" />
+    <option name="LAST_COMMIT_MESSAGE" value="updated the main file" />
   </component>
 </project>
