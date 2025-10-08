@@ -6,10 +6,10 @@ A fun **Python console game** where you guess which celebrity or famous personal
 
 ## 🧩 How to Play
 
-1. Run the program.
-2. You’ll see two accounts (A and B) with their name, description, and country.
-3. Type **'A'** or **'B'** to guess who has more followers.
-4. Each correct guess increases your score 🎯
+1. Run the program.  
+2. You’ll see two accounts (A and B) with their name, description, and country.  
+3. Type **'A'** or **'B'** to guess who has more followers.  
+4. Each correct guess increases your score 🎯  
 5. The game ends when you guess wrong — but you can play again!
 
 ---
@@ -21,8 +21,14 @@ All data and ASCII art are included in `game_data.py` and `art.py`.
 
 ---
 
-## ▶️ Run the Game
+## ▶️ How to Run
 
 ```bash
-python main.py
+# Clone the repository
+git clone https://github.com/ak1bhasan/Higher-Lower-Game.git
 
+# Go to the project folder
+cd Higher-Lower-Game
+
+# Run the game
+python main.py
