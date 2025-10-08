@@ -26,21 +26,3 @@ All data and ASCII art are included in `game_data.py` and `art.py`.
 ```bash
 python main.py
 
-## ▶️ Example Output
-
-Compare A: Cristiano Ronaldo, a footballer, from Portugal.
-vs
-Compare B: Selena Gomez, a singer and actress, from USA.
-Who has more followers? Type 'A' or 'B': a
-
-You're right! 🎉 Current score: 1
-
----
-
-## 📁 Project Structure
-📦 Higher-Lower-Game
-├── art.py
-├── game_data.py
-├── main.py
-└── README.md
-
