@@ -14,13 +14,6 @@ A fun **Python console game** where you guess which celebrity or famous personal
 
 ---
 
-## 🛠️ Requirements
-
-No extra modules needed — only **Python 3**.  
-All data and ASCII art are included in `game_data.py` and `art.py`.
-
----
-
 ## ▶️ How to Run
 
 ```bash
